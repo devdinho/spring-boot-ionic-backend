@@ -1,0 +1,23 @@
+[33mcommit f7e30b134becf9fd0afa83e6ee1b7b6e39502f17[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: 8kball <diegomessenger@gmail.com>
+Date:   Sun Oct 6 22:26:58 2019 -0300
+
+    Banco de dados H2 criacao automatica da base de dados
+
+[33mcommit d5c4fe3666e8ac9bc1ec43eed09b5068d3b8c30b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: 8kball <diegomessenger@gmail.com>
+Date:   Sun Oct 6 21:32:01 2019 -0300
+
+    Testando a primeira classe de dominio - Categoria
+
+[33mcommit 0530353609725055e913e7983573be8950bbddd1[m
+Author: 8kball <diegomessenger@gmail.com>
+Date:   Tue Oct 1 12:32:40 2019 -0300
+
+    REST Testado
+
+[33mcommit 20c821c6b10ad17e633d4ca7ca42d5d0bb97c051[m
+Author: 8kball <diegomessenger@gmail.com>
+Date:   Tue Oct 1 12:15:38 2019 -0300
+
+    Projeto Criado
